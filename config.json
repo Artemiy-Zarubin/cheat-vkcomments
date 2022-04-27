@@ -1,0 +1,14 @@
+{
+	"useSticker": true,
+	"stickerId": 61826,
+	"replyToComment": 902,
+	"text": "meow!",
+	"tokens": [
+		"token1",
+		"token2",
+		"tokenN.."
+	],
+	"owner_id": 382847201,
+	"post_id": 900,
+	"cd": 15000
+}

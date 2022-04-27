@@ -1,0 +1,15 @@
+{
+  "name": "comments-vk",
+  "version": "1.1.0",
+  "description": "Cheating comments on posts on behalf of the community. VK.com",
+  "main": "index.js",
+  "dependencies": {
+    "prequest": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artemiy-Zarubin",
+  "license": "ISC"
+}
